@@ -1,4 +1,6 @@
 fastapi
 uvicorn
-requests
+pytesseract
+pdf2image
+Pillow
 python-multipart
